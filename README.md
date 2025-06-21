@@ -15,7 +15,7 @@ CFNTabChat is a powerful Chrome extension that integrates an AI chatbot directly
     *   **OpenAI** (GPT series)
     *   **Google Gemini**
     *   **OpenRouter** (access a wide range of models)
-*   **Intuitive Interface:** Easily access the AI chat from a convenient sidebar, making it seamless to integrate into your workflow.
+*   **Intuitive Interface:** Easily access the AI chat from a convenient popup, making it seamless to integrate into your workflow.
 
 ---
 
@@ -56,7 +56,7 @@ Before you can start chatting, you'll need to configure your AI API keys.
 
 ## 🛠️ Usage
 
-1.  **Activate CFNTabChat:** Click the CFNTabChat icon in your Chrome toolbar to open the chat sidebar.
+1.  **Activate CFNTabChat:** Click the CFNTabChat icon in your Chrome toolbar to open the chat popup.
 2.  **Chat with Current Tab:** By default, the AI will be aware of the content of your currently active tab. Type your question or prompt in the chat input.
 3.  **Include Multiple Tabs:**
     *   In the popup, you'll find a section (e.g., "Add Context" or "Select Tabs") where you can see your open tabs.
