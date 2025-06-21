@@ -1,4 +1,6 @@
-# CFNTabChat 💬
+![generated-image(2)](https://github.com/user-attachments/assets/b4e32a3c-c24e-4aa5-b3a5-01ad698e735f)
+
+# CFNTabChat 🗨️
 
 **Chat with your tabs! Get instant answers, summarize content, and bring multiple tabs into your AI conversations.**
 
