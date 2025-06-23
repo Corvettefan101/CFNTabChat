@@ -88,6 +88,7 @@ We'd like to express our gratitude to the following for their invaluable contrib
 *   **Gemini 2.5 Pro:** For its exceptional capabilities in assisting with core coding tasks.
 *   **Gemini 2.5 Flash:** For generating this comprehensive README file.
 *   **Windsurf SWE-1:** For significant contributions to the codebase.
+*   **Chat GPT 4o Image Gen:** For the logo
 *   **Corvettefan101:** For dedicated testing, insightful refinements, and seamless implementation of the code.
 
 ---
