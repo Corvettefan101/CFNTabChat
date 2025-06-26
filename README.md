@@ -23,7 +23,7 @@ CFNTabChat is a powerful Chrome extension that integrates an AI chatbot directly
 
 ## 🚀 Getting Started
 
-### Installation (Unpacked Extension)
+### Chrome Installation (Unpacked Extension)
 
 Since CFNTabChat is not available on the Chrome Web Store (maybe it will in the future), you will need to load it as an unpacked extension:
 
@@ -40,6 +40,14 @@ Since CFNTabChat is not available on the Chrome Web Store (maybe it will in the 
     *   Navigate to and select the folder where you extracted the extension files (e.g., `CFNTabChat`).
 5.  **Extension Installed:**
     *   CFNTabChat should now appear in your list of extensions. You'll see its icon in your Chrome toolbar.
+
+### Installation (Firefox Add-on)
+
+CFNTabChat is also available for Firefox! You can install it directly from the Mozilla Add-ons store:
+
+*   **Install from Mozilla Add-ons:**
+    *   Visit the official add-on page: [https://addons.mozilla.org/en-US/firefox/addon/cfn-tab-chat/](https://addons.mozilla.org/en-US/firefox/addon/cfn-tab-chat/)
+    *   Click "Add to Firefox" to install the extension.
 
 ### Configuration (BYOK)
 
